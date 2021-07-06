@@ -1,6 +1,4 @@
 # Ditital-Wallet
 
 Group Member:
-Oum Soknang
-Koiy Bottra
-Chhay Lang
+Oum Soknang, Koiy Bottra, Chhay Lang
